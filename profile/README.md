@@ -7,7 +7,7 @@ This org has a few COVID-related projects you can take a look at
 - [Vaxx Widget](https://github.com/CovidEngine/vaxxwidget) - A website widget that helps you find vaccine bookings
 
 - [Lenny](https://github.com/CovidEngine/covidengineui) - Experimental project that uses payment data to do COVID contact tracing - made for the GovHack 2021 Hackathon
-- [GLN hashes](https://github.com/CovidEngine/reverseglnhashes) -Experiments with COVID tracer QR codes - made for the GovHack 2021 Hackathon
+- [GLN hashes](https://github.com/CovidEngine/reverseglnhashes) - Experiments with COVID tracer QR codes - made for the GovHack 2021 Hackathon
 
 <!--
 
