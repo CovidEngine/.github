@@ -7,7 +7,7 @@ This org has a few COVID-related projects you can take a look at
 
 - [Vaxx.nz](https://github.com/CovidEngine/vaxxnz) - A website that makes it easy to find vaccination bookings, walk-in vaccination sites, and drive-throughs.
 - [Vaxx.nz Locations](https://github.com/CovidEngine/vaxxnzlocations) - Raw scraped data from bookmyvaccine.nz - you can use it to make your own vaccine finder
-- [Vaxx Widget](https://github.com/CovidEngine/vaxxwidget) - A website widget that helps you find vaccine bookings
+- [Vaxx Widget](https://docs.vaxx.nz) - A website widget that helps you find vaccine bookings
 
 
 
