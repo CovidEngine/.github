@@ -14,7 +14,8 @@ This org has a few COVID-related projects you can take a look at
 - [nzcp](https://github.com/CovidEngine/nzcp-rs) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in Rust
 
 
-## 📦 Experimental, archived stuff that was made for the GovHack 2021 Hackathon
+## 📦 Archived Projects
+Experimental, archived projects that are not maintained
 
 - [Lenny](https://github.com/CovidEngine/covidengineui) - Experimental project that uses payment data to do COVID contact tracing Hackathon
 - [GLN hashes](https://github.com/CovidEngine/reverseglnhashes) - Experiments with COVID tracer QR codes - made for the GovHack 2021 Hackathon
