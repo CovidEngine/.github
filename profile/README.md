@@ -11,7 +11,7 @@ This org has a few COVID-related projects you can take a look at
 
 - [Vaxx Widget](https://docs.vaxx.nz) - A website widget that helps you find vaccine bookings
 - [NZCP.js](https://github.com/CovidEngine/nzcp-js) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in NodeJS
-- [nzcp](https://github.com/CovidEngine/nzcp-rs) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in Rust
+- [nzcp](https://github.com/CovidEngine/nzcp-rust) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in Rust
 
 
 ## 📦 Archived Projects
