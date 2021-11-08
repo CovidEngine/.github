@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This org has a few COVID-19 projects you might find useful
+This org has a few COVID-19 projects you might find useful. Have a look around, or feel free to contribute :)
 
 
 ## 🔬 Active Projects
