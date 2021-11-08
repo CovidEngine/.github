@@ -13,7 +13,7 @@ This org has a few COVID-19 projects you might find useful
 
 ### Vaccination Passes
 - [NZCP.js](https://github.com/CovidEngine/nzcp-js) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in NodeJS
-- [nzcp](https://github.com/CovidEngine/nzcp-rust) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in Rust
+- [NZCP Rust](https://github.com/CovidEngine/nzcp-rust) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in Rust
 
 
 ## 📦 Archived Projects
