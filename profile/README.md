@@ -12,7 +12,8 @@ This org has a few COVID-19 projects you might find useful. Have a look around, 
 - [Vaxx Widget](https://docs.vaxx.nz) - A website widget that helps you find vaccine bookings
 
 ### Vaccination Passes
-- [NZCP.js](https://github.com/CovidEngine/nzcp-js) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in NodeJS
+- [Vaxxed.as](https://github.com/rafcontreras/vaxxed-as) - A website to scan and verify COVID-19 Vaccine Certificates made by @rafcontreras. Uses NZCP.js
+- [NZCP.js](https://github.com/CovidEngine/nzcp-js) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in NodeJS and the browser
 - [NZCP Rust](https://github.com/CovidEngine/nzcp-rust) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in Rust
 
 
