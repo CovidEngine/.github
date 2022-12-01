@@ -20,7 +20,7 @@ This org has a few COVID-19 projects you might find useful. Have a look around, 
 ## 📦 Archived Projects
 Experimental, archived projects that are not maintained
 
-- [Lenny](https://github.com/CovidEngine/covidengineui) - Experimental project that uses payment data to do COVID contact tracing Hackathon
+- [Lenny](https://github.com/CovidEngine/covidengineui) - Experimental Hackathon project that uses payment data to do COVID contact tracing 
 - [GLN hashes](https://github.com/CovidEngine/reverseglnhashes) - Experiments with COVID tracer QR codes - made for the GovHack 2021 Hackathon
 
 <!--
