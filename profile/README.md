@@ -1,35 +1,15 @@
-# Hi there 👋
+# We build real things.
 
-This org has a few COVID-19 projects you might find useful. Have a look around, or feel free to contribute :)
+Haxx.nz are a collective of software developers, designers and makers of all kinds who build things for fun. The projects we work on range from silly proof of concept ideas, to free open source tools that do social good.
 
+If you’ve got skills, or want to learn how to collaboratively build something, join the crew on Discord. it's a great way to meet like minded people to work on stuff with. We also accept requests to maintain projects that you no longer want to support, but might still have real users.
 
-## 🔬 Active Projects
+[Join us on Discord](https://discord.gg/hjC3mZ4hsz)
 
-### Finding vaccinations
+## Projects
 
-- [Vaxx.nz](https://github.com/vaxxnz/vaxxnz) - A website that makes it easy to find vaccination bookings, walk-in vaccination sites, and drive-throughs.
-- [Vaxx.nz Locations](https://github.com/vaxxnz/vaxxnzlocations) - Raw scraped data from bookmyvaccine.nz - you can use it to make your own vaccine finder
-- [Vaxx Widget](https://docs.vaxx.nz) - A website widget that helps you find vaccine bookings
+[Submit an idea here](https://github.com/vaxxnz)
 
-### Vaccination Passes
-- [Vaxxed.as](https://github.com/vaxxnz/vaxxed-as-web) - A website to scan and verify COVID-19 Vaccine Certificates made by @rafcontreras. Uses NZCP.js
-- [NZCP.js](https://github.com/vaxxnz/nzcp-js) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in NodeJS and the browser
-- [NZCP Rust](https://github.com/vaxxnz/nzcp-rust) - A verification library for COVID-19 Vaccine Certificates in New Zealand for use in Rust
+[See an active projects here](https://github.com/vaxxnz/projects)
 
-
-## 📦 Archived Projects
-Experimental, archived projects that are not maintained
-
-- [Lenny](https://github.com/CovidEngine/covidengineui) - Experimental Hackathon project that uses payment data to do COVID contact tracing 
-- [GLN hashes](https://github.com/CovidEngine/reverseglnhashes) - Experiments with COVID tracer QR codes - made for the GovHack 2021 Hackathon
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+[See archived projects here](https://github.com/vaxxnz/projects)
