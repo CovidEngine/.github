@@ -1,4 +1,4 @@
-# We build for fun.
+# We build real things.
 
 Haxx.nz are a collective of software developers, designers and makers of all kinds who build things for fun. The projects we work on range from silly proof of concept ideas, to free open source tools that do social good.
 
