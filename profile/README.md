@@ -10,6 +10,6 @@ If you’ve got skills, or want to learn how to collaboratively build something,
 
 [Submit an idea here](https://github.com/vaxxnz/projects/issues/new?assignees=&labels=project&template=new_project.md&title=)
 
-[See an active projects here](https://github.com/vaxxnz/projects)
+[See all active projects here](https://github.com/vaxxnz/projects)
 
 [See archived projects here](https://github.com/vaxxnz/projects)
